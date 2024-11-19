@@ -1,6 +1,3 @@
-import Image from "next/image";
-
-import Featured from "./Featured/page";
 import Features from "./components/Features";
 
 
@@ -53,7 +50,7 @@ export default function Home() {
 
   );
 }
-import Link from "next/link"
+
 
 
 
