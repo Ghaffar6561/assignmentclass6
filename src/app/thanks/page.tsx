@@ -10,7 +10,7 @@ export default function Thanks(){
             <div className="flex  items-center justify-center">
              <a target="_blank" href="https://www.linkedin.com/in/ghaffar-accounts/"><Image
              src="/linkedin.png" alt="Linkedin Logo" height={48} width={48}/></a>
-             <a target="_blank" href="https://vercel.com/new/talhakhan-tks-projects"><Image
+             <a target="_blank" href="https://vercel.com/ghaffar-ahmed"><Image
              src="/Vercel.png" alt="Versal Logo" height={48} width={48}/></a>
              
             </div> </div> 
